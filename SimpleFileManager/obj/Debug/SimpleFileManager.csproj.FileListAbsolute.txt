@@ -1,0 +1,9 @@
+E:\#1 CodingArea\C#_Practice_Winform\SimpleFileManager\SimpleFileManager\bin\Debug\SimpleFileManager.exe.config
+E:\#1 CodingArea\C#_Practice_Winform\SimpleFileManager\SimpleFileManager\bin\Debug\SimpleFileManager.exe
+E:\#1 CodingArea\C#_Practice_Winform\SimpleFileManager\SimpleFileManager\bin\Debug\SimpleFileManager.pdb
+E:\#1 CodingArea\C#_Practice_Winform\SimpleFileManager\SimpleFileManager\obj\Debug\SimpleFileManager.Form1.resources
+E:\#1 CodingArea\C#_Practice_Winform\SimpleFileManager\SimpleFileManager\obj\Debug\SimpleFileManager.Properties.Resources.resources
+E:\#1 CodingArea\C#_Practice_Winform\SimpleFileManager\SimpleFileManager\obj\Debug\SimpleFileManager.csproj.GenerateResource.cache
+E:\#1 CodingArea\C#_Practice_Winform\SimpleFileManager\SimpleFileManager\obj\Debug\SimpleFileManager.csproj.CoreCompileInputs.cache
+E:\#1 CodingArea\C#_Practice_Winform\SimpleFileManager\SimpleFileManager\obj\Debug\SimpleFileManager.exe
+E:\#1 CodingArea\C#_Practice_Winform\SimpleFileManager\SimpleFileManager\obj\Debug\SimpleFileManager.pdb
